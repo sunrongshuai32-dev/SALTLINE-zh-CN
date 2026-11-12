@@ -1,14 +1,3 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '8892dccb-838e-40d1-87ef-ebc2232b4455'
-  PropagateID: '8892dccb-838e-40d1-87ef-ebc2232b4455'
-  ReservedCode1: 'fd512bd7-9655-4006-93fe-1d3fc5ab10a4'
-  ReservedCode2: 'fd512bd7-9655-4006-93fe-1d3fc5ab10a4'
----
-
 # SALTLINE（盐线）中文汉化版 —— 项目介绍
 
 > 本作是在**原版 SALTLINE** 单文件 3D 网页游戏基础上进行**汉化**（本地化）的项目，将游戏中面向玩家的全部英文界面与文案翻译为中文，游戏逻辑与玩法保持原样。
